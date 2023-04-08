@@ -1,5 +1,4 @@
 # checkbox
-<!DOCTYPE html>
    <html>
     <main>
     <body>
