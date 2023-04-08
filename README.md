@@ -4,7 +4,7 @@
     <body>
 <section>
 
-          <h1> Personality </h1>
+          <h2> Personality </h2>
 
          <input id="loving" type="checkbox" name="personality"> <lable for="loving"> loving </label>
          <input id="lazy" type="checkbox" name="personality"> <lable for="lazy"> lazy </label>
